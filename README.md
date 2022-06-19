@@ -4,7 +4,7 @@ A small project that can allow you to customize a windows ISO by adding programs
 
 About:
 
-    The .zip file contains many batch files and when executed in the right order will allow you to get access to the windows installation files.
+   The .zip file contains many batch files and when executed in the right order will allow you to get access to the windows installation files.
   
 Note: 
 
@@ -12,7 +12,7 @@ Note:
   
 How to Use:
   
-    First you will need a Windows ISO. Right click on your iso and click "Mount" in the selection menu. It should bring you to the files on the iso.
+   First you will need a Windows ISO. Right click on your iso and click "Mount" in the selection menu. It should bring you to the files on the iso.
   Highlight everything and press ctrl+c.  Now you have to extract the .zip file. Right click it and press "Extract All" from the menu and press "Extact".
   Navigate to the "Install Files" and press ctrl+v.  Hopefully it will copy all files from the ISO to this folder.  Go up 1 folder and run "Start.bat".
   Wait a few seconds and when you get a prompt that says "press any key to continue", press any key.  It will open an explorer window. Now run 
