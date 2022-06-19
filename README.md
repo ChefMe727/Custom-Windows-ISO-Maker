@@ -8,7 +8,7 @@ About:
   
 Note: 
 
-  I didn't do a great job explaining.
+  I didn't do a great job explaining. Also, this was only tested on a Windows 10 ISO.
   
 How to Use:
   
