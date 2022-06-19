@@ -1,5 +1,5 @@
 # Custom-Windows-ISO-Maker
-A small project that can allow you to customize a windows ISO by adding programs into or removing programs in the Program Files and Pregram Files (x86) folders.
+A small project that can allow you to customize a windows ISO by adding programs into or removing programs in the Program Files and Program Files (x86) folders.
 
 
 About:
