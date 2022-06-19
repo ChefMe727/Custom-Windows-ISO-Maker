@@ -1,0 +1,4 @@
+"Clean Up.bat" deletes the "C:\ESD Workspace" folder that "Start.bat" made.  Only run "Clean Up.bat" when you have finished all the work and have copied 
+the "install.esd" file from "C:\ESD Workspace" to another directory.
+
+"Open Workspace Directory.bat" opens "C:\ESD Workspace" if you close it.
