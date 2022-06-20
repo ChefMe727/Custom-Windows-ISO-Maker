@@ -21,4 +21,4 @@ How to Use:
   When you are done, run "Unmount and Compress.bat" as administrator.  
   This batch file takes a while to complete so just wait for the press any key prompt to appear.  When that is done you can navigate to "C:\ESD Workspace"
   and copy the "install.esd" file into the "sources" folder inside of the "Install Files" folder (Make sure you select replace files).  
-  That is all I have provided.  You will need software likeIMGBurn to make an ISO out of the files.
+  That is all I have provided.  You will need software like IMGBurn to make an ISO out of the files.
